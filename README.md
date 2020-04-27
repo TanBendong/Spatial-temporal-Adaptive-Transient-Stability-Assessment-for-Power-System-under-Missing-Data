@@ -1,7 +1,7 @@
 **Copyright notice**: These codes can be used only for reproducing our unpublished paper "Spatial-temporal Adaptive Transient Stability Assessment for Power System under Missing Data" submitted to **International Journal of Electrical Power & Energy Systems**, and other uses are not allowed!
 
 # Spatial-temporal-Adaptive-Transient-Stability-Assessment-for-Power-System-under-Missing-Data
-These codes are for our paper "Spatial-temporal Adaptive Transient Stability Assessment for Power System under Missing Data", and the following introduction provides usages for them. As the capacity of github is limited, we apologize that the datasets cannot be uploaded, but readers can gernerate them according to data generation method in our paper. Enjoy it!
+These codes are for our paper "Spatial-temporal Adaptive Transient Stability Assessment for Power System under Missing Data", and the following introduction provides usages for them. As the capacity of Github is limited, we apologize that the datasets cannot be uploaded, but readers can generate them according to data generation method in our paper. Enjoy it!
 ## Environment Requirement
 * Python 3.x
 * Matlab
