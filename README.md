@@ -1,4 +1,4 @@
-**Copyright notice**: These codes can be used only for reproducing our unpublished paper "Spatial-temporal Adaptive Transient Stability Assessment for Power System under Missing Data", and other usages are not allowed!
+**Copyright notice**: These codes can be used only for reproducing our unpublished paper "Spatial-temporal Adaptive Transient Stability Assessment for Power System under Missing Data" submitted to **International Journal of Electrical Power & Energy Systems**, and other usages are not allowed!
 
 # Spatial-temporal-Adaptive-Transient-Stability-Assessment-for-Power-System-under-Missing-Data
 These codes are for our paper "Spatial-temporal Adaptive Transient Stability Assessment for Power System under Missing Data", and the following introduction provides usage for them. As the capacity of github is limited, we apologize that the datasets cannot be uploaded, but readers can gernerate them according to data generation method in our paper. Enjoy it!
