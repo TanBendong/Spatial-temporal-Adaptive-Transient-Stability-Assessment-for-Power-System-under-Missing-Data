@@ -23,7 +23,7 @@ for m=1:8
     for a=1:row
         value=score;
         value(sum(X(:,C(a,:)),2)>0)=0;
-        remain=remain+sum(value)*(0.02)^m;        
+        remain=remain+sum(value)*(0.98)^m;        
     end 
     risk=[risk;remain];
 end
